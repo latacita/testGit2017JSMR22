@@ -11,3 +11,5 @@
 3	para crear la rama nos posicionamos en master y le damos a rama, despues introduciremos el nombre de la rama.
 4	para crear la rama nos posicionamos en master y le damos a rama, despues introduciremos el nombre de la rama.
 5	para posicionarnos en la rama basta con hacer doble click en la rama Historia000
+11	dado que nos queremos cambiar de rama y aun no hemos realizado el commit deberemos ir al estado del archivo y pulsar en reservado, ahi le indiqueremos un nombre para el stash, después de esto podremos cambiar de rama y nuestros cambios sin comitear estaran en el apartado izquierdo de reservados.
+
