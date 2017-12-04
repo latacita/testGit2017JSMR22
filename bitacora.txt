@@ -1,12 +1,19 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Sainz-Maza Ruiz, Javier):                                      %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
-7	para preparar el fichero bitacora nos vamos a estado del archivo, y ahi seleccionamos el fichero a preparar.
-8	una vez el fichero este preparado abajo(donde pone mensaje para anotar) escribimos como mensaje paso 08
-9	para desplazarnos a esa rama hacemos doble click sobre ella
-16	para recuperar los datos del stash hacemos click derecho sobre el stash  creado anteriormente(dentro del apartado de reservados) y pulsamos en aplicar reservado
+1	new->clonar desde url,introducimos la url y seleccionamos la carpeta donde se almacenara
+2	para editarlo abrimos la terminal y lo editamos con nano
+3	para crear la rama nos posicionamos en master y le damos a rama, despues introduciremos el nombre de la rama.
+4	para crear la rama nos posicionamos en master y le damos a rama, despues introduciremos el nombre de la rama.
+5	para posicionarnos en la rama basta con hacer doble click en la rama Historia000
+7       para preparar el fichero bitacora nos vamos a estado del archivo, y ahi seleccionamos el fichero a preparar.
+8       una vez el fichero este preparado abajo(donde pone mensaje para anotar) escribimos como mensaje paso 08
+9       para desplazarnos a esa rama hacemos doble click sobre ella
+11	dado que nos queremos cambiar de rama y aun no hemos realizado el commit deberemos ir al estado del archivo y pulsar en reservado, ahi le indiqueremos un nombre para el stash, después de esto podremos cambiar de rama y nuestros cambios sin comitear estaran en el apartado izquierdo de reservados.
+16      para recuperar los datos del stash hacemos click derecho sobre el stash  creado anteriormente(dentro del apartado de reservados) y pulsamos en aplicar reservado
+20 	merge recursivo. Para realizarlo nos posicionamos en la ram historia001 y le damos a integrar y seleccionamos la rama a integrar en este caso Historia000. Para resolver los conflictos abrimos el archivo con nano y ordenamos  bien los pasos
