@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+7	para preparar el fichero bitacora nos vamos a estado del archivo, y ahi seleccionamos el fichero a preparar.
+8	una vez el fichero este preparado abajo(donde pone mensaje para anotar) escribimos como mensaje paso 08
+9	para desplazarnos a esa rama hacemos doble click sobre ella
+16	para recuperar los datos del stash hacemos click derecho sobre el stash  creado anteriormente(dentro del apartado de reservados) y pulsamos en aplicar reservado
