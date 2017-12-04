@@ -7,3 +7,5 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 25	se haria por fast forward
+27	para etiquetar el commit, click derecho sobre el commit, le damos a Etiqueta... e introducimos el nombre, no tenemos que marcar la casilla de subirlo al remoto
+28	para subirlos primero debemos hacer un pull ya que ha habido cambios, una vez hagamos un pull podremos realizar un push
